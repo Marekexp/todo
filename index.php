@@ -20,7 +20,7 @@ $itemsQuery->execute([
     <meta charset="UTF-8">
     <title>TO DO</title>
 
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans|Shadows+Into+Light+Two" rel="stylesheet"/>﻿
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>﻿
     <link rel="stylesheet" href="css/main.css"/>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
